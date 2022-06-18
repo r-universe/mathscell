@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bspline",
+    "oncran": true
+  },
+  {
+    "package": "nlsic",
+    "oncran": true
+  }
+]
