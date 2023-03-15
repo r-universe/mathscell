@@ -1,10 +1,10 @@
 [
   {
-    "package": "bspline",
+    "package": "nlsic",
     "oncran": true
   },
   {
-    "package": "nlsic",
+    "package": "bspline",
     "oncran": true
   }
 ]
